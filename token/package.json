@@ -1,0 +1,11 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/jsonwebtoken": "^8.5.9",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
